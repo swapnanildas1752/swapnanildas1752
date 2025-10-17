@@ -18,6 +18,6 @@
 - 🩺 *Healthcare RAG Survey* — Agentic retrieval-augmented generation use case analysis  
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/swapnanildas)  
+- 💼 [LinkedIn](www.linkedin.com/in/sdas1999)  
 - ✉️ Email: swapnanildas1752@gmail.com  
 - 🌐 [Portfolio Website (coming soon)](https://swapnanildas.dev)
