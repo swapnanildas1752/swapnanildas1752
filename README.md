@@ -89,7 +89,6 @@
  ## 📊 GitHub Stats  
 <p align="center">
   
-![Swapnanil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnanildas&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildas&layout=compact&theme=radical)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnanildas1752&theme=tokyonight" width="48%">
 </p>
